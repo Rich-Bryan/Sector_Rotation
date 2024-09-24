@@ -31,3 +31,7 @@ you need to put it in the jupyter notebook as a code block and run it
 - Information Technology
 - Consumer Discretionary
 - Communication
+
+
+### reference
+https://medium.com/trademind-analytics/outperform-s-p-500-by-50-sector-rotation-strategy-leveraging-risk-indicators-python-code-577aeb98e784
